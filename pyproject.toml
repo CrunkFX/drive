@@ -18,7 +18,8 @@ dependencies = [
     "pycrdt==0.12.26",
     "Markdown==3.8.2",
     "beautifulsoup4~=4.13.4",
-    "html2text==2025.4.15"
+    "html2text==2025.4.15",
+    "pyOpenSSL>=24.0"
 ]
 
 [build-system]
